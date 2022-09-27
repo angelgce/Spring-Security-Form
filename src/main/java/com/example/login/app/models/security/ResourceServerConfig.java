@@ -2,7 +2,6 @@ package com.example.login.app.models.security;
 
 import java.util.Arrays;
 
-import javax.persistence.criteria.Order;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
